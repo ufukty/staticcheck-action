@@ -1,3 +1,8 @@
+# 1.4.1
+
+- Switch from WillAbides/setup-go-faster to actions/setup-go
+- Pin our dependencies
+
 # 1.4.0
 
 - Add `use-cache` option to disable automatic caching
